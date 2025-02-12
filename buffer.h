@@ -1,4 +1,4 @@
 #include <stdio.h>
 int main(){
-  char buffer[512]
+  char buffer[512];
 }
